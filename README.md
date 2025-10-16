@@ -13,6 +13,9 @@ This project implements a Deep Q-Network (DQN) agent that learns to play ColorTi
   - Adjustable α (priority exponent) and β (importance sampling correction)
 - **Success Buffer**
   - Stores transitions from successful episodes and reuses them to reinforce positive learning signals
+ 
+## Demo
+<img src="./gifs/best_replay.gif" alt="Replay Example" width="300">
 
 ## Future Improvements
 
